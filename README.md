@@ -1,4 +1,4 @@
-# mta train time project
+#MTA Train Time Project
  In this project, we will build an end-to-end system that tracks MTA train times for the local N & W trains and displays this data on a LED Matrix.
 
 
